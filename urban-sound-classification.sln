@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "urban-sound-classification", "urban-sound-classification\urban-sound-classification.pyproj", "{DAF18F55-E5AE-40BB-AE09-EE1356A843D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF18F55-E5AE-40BB-AE09-EE1356A843D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF18F55-E5AE-40BB-AE09-EE1356A843D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D9775F-3F12-4AB6-876F-E49EA93241E1}
+	EndGlobalSection
+EndGlobal
